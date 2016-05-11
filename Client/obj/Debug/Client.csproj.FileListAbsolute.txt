@@ -1,0 +1,5 @@
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Client\Client\bin\Debug\Client.exe.config
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Client\Client\bin\Debug\Client.exe
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Client\Client\bin\Debug\Client.pdb
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Client\Client\obj\Debug\Client.exe
+D:\Magnis projects\Second App\X-Project\Test-console project\Socket TcpClient_Server\Testik\Client\Client\obj\Debug\Client.pdb
